@@ -1,0 +1,56 @@
+.jobs-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  color: white;
+}
+.info-container {
+  display: flex;
+  padding: 20px;
+}
+
+.left-container {
+  padding: 20px;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+.right-container {
+}
+.jobslist-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.employment-types-container {
+  list-style-type: none;
+}
+.salary-ranges-list {
+  list-style-type: none;
+}
+.retry-button {
+  background-color: blue;
+  color: white;
+}
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 250px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  color: black;
+}
+.profile-image {
+  height: 100px;
+  width: 100px;
+}
+.jobs-failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

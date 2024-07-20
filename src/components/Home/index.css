@@ -1,0 +1,8 @@
+.home-container {
+  height: 100vh;
+  background-image:url("https://assets.ccbp.in/frontend/react-js/home-lg-bg.png");
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}

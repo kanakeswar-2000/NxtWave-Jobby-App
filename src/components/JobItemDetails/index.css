@@ -1,0 +1,27 @@
+.job-details-container {
+  background-color: black;
+
+  height: 100vh;
+  color: white;
+  overflow: auto;
+}
+.company-container {
+  background-color: #64748b;
+  margin: 20px;
+}
+.company-image {
+  height: 200px;
+}
+.company-logo {
+  height: 50px;
+  width: 50px;
+}
+.skills-container {
+  display: flex;
+  list-style-type: none;
+}
+.similarjobs-container{
+  list-style-type: none;
+  display:flex;
+}
+ 

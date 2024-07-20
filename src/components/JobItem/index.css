@@ -1,0 +1,12 @@
+.eachjob-container {
+  background-color: #64748b;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.company-info-container {
+  display: flex;
+}
+.company-logo {
+  height: 100px;
+}

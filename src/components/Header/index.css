@@ -1,0 +1,18 @@
+.nav-container {
+  padding: 20px;
+  background-color: #64748b;
+  display: flex;
+
+  justify-content: space-around;
+}
+.links-container {
+  display: flex;
+  list-style-type: none;
+}
+.nav-link {
+  color: black;
+}
+.logout-button {
+  background-color: blue;
+  color: white;
+}
